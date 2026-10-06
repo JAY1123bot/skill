@@ -1,0 +1,4 @@
+interface:
+  display_name: "Change Control"
+  short_description: "Require confirmation before mutating files or external state"
+  default_prompt: "Review the requested change and wait for my explicit confirmation before any mutation."
